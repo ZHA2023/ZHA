@@ -8,6 +8,15 @@
 
          "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-01.ovpn"
 
+      },
+
+
+{
+
+         "name": "TH-VIP-002",
+
+         "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-02.ovpn"
+
       }
 
 
@@ -17,10 +26,10 @@
 
    ],
 
-"message":"30 August 2023\n\n•Version:1\n\n•✅Add 1 VIP IP✅\n\n📢By : SanLin📢",
+"message":"2 September 2023\n\n•Version:2\n\n•✅Add 1 VIP IP✅\n\n📢By : SanLin📢",
 
    "title":"ZHA" ,
 
-   "version": 1
+   "version": 2
 
 }
