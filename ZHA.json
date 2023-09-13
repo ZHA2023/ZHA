@@ -43,18 +43,27 @@
 
          "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-05.ovpn"
 
-      }
+      },
 
+
+      
+{
+
+         "name": "TH-VIP-006",
+
+         "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-06.ovpn"
+
+      }
      
 
      
 
    ],
 
-"message":"11 September 2023\n\n•Version:5\n\n•✅Add VIP-004 IP✅\n\n📢By : Zaw Htet Aung📢",
+"message":"13 September 2023\n\n•Version:6\n\n•✅Add VIP-004 IP✅\n\n📢By : Zaw Htet Aung📢",
 
    "title":"ZHA" ,
 
-   "version": 5
+   "version": 6
 
 }
