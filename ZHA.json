@@ -101,7 +101,7 @@
 
          "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-11.ovpn"
 
-       },
+       }
       
 
  
@@ -116,6 +116,6 @@
 
    "title":"ZHA" ,
 
-   "version": 18
+   "version": 14
 
 }
