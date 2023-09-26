@@ -86,7 +86,7 @@
       
 {
 
-         "name": "TH-VIP-10",
+         "name": "TH-VIP-010",
 
          "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-10.ovpn"
 
@@ -97,11 +97,23 @@
 {
    
 
-         "name": "TH-VIP-11",
+         "name": "TH-VIP-011",
 
          "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-11.ovpn"
 
-       }
+       },
+
+
+
+{
+   
+
+         "name": "TH-VIP-012",
+
+         "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-12.ovpn"
+
+      
+      }      
       
 
  
@@ -112,10 +124,10 @@
 
    ],
 
-"message":"25 September 2023\n\n•Version:14\n\n•✅Add VIP-11 IP✅\n\n📢By :Zaw Htet Aung 📢",
+"message":"26 September 2023\n\n•Version:17\n\n•✅Add VIP-12 IP✅\n\n📢By :Zaw Htet Aung 📢",
 
    "title":"ZHA" ,
 
-   "version": 16
+   "version": 17
 
 }
