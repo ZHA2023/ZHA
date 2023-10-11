@@ -17,7 +17,7 @@
 {
 
          "name": "TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-02.ovpn"
+         "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-03.ovpn"
       },
 
 {
@@ -78,15 +78,21 @@
    
          "name": "TH-VIP-013",
          "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-13.ovpn"
+      },
+
+{  
+   
+         "name": "TH-VIP-014",
+         "url": "https://raw.githubusercontent.com/ZHA2023/ZHA/main/ZHA-14.ovpn"
       }
-      
-  
+
+       
    ],
 
-"message":"8 October 2023\n\n•တစ်လ 50ဘတ် ရက်ပြည့်အာမခံပါတယ်\n\n•✅Add VIP-13 IP✅\n\n📢By :Zaw Htet Aung 📢",
+"message":"11 October 2023\n\n•ရက်ပြည့် အာမခံ 100%\n\n•✅Add VIP-13 IP✅\n\n📢By :Zaw Htet Aung 📢",
 
    "title":"ZHA" ,
 
-   "version": 27
+   "version": 25
 
 }
